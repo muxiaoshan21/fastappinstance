@@ -35,7 +35,11 @@
       "Profile": {
         "component": "profile",
         "path": "/profile"
-      }
+      },
+      "HomeInner": {
+        "component": "homeinner",
+        "path": "/homeinner"
+      } 
     }
   },
   "display": {

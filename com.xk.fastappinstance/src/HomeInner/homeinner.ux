@@ -1,0 +1,9 @@
+<template>
+   
+      <div class="article-tip">
+          <text class="tip">homeinner</text>
+      </div>
+          
+
+       
+</template>
